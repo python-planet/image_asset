@@ -1,0 +1,479 @@
+{
+	"alllistcontent":
+	[
+		{
+			"content_title"		: "Hukum Islam",
+			"content_url"		: "4t.html",
+			"content_category"	: "Bab Hukum Islam",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Rukun Islam",
+			"content_url"		: "5t.html",
+			"content_category"	: "Bab Rukun Islam",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Thoharoh",
+			"content_url"		: "6t.html",
+			"content_category"	: "Thoharoh",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Najis dan Cara Membersihkannya",
+			"content_url"		: "7t.html",
+			"content_category"	: "Thoharoh",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Istinja dan Adabnya",
+			"content_url"		: "8t.html",
+			"content_category"	: "Thoharoh",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Mandi",
+			"content_url"		: "9t.html",
+			"content_category"	: "Thoharoh",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Wudhu",
+			"content_url"		: "10t.html",
+			"content_category"	: "Bab Wudhu",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Syarat Sah Wudhu",
+			"content_url"		: "11t.html",
+			"content_category"	: "Bab Wudhu",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Tata Cara Melakukan Wudhu Beserta Gambar",
+			"content_url"		: "12t.html",
+			"content_category"	: "Bab Wudhu",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Hal-hal Yang Membatalkan Wudhu",
+			"content_url"		: "13t.html",
+			"content_category"	: "Bab Wudhu",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Keutamaan atau Fadhilah Wudhu",
+			"content_url"		: "14t.html",
+			"content_category"	: "Bab Wudhu",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Ikhtilaf dalam Wudhu",
+			"content_url"		: "15t.html",
+			"content_category"	: "Bab Wudhu",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Cara Berwudhu untuk Anggota Badan yang Diperban",
+			"content_url"		: "16t.html",
+			"content_category"	: "Bab Wudhu",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Pengertian Tayammum",
+			"content_url"		: "17t.html",
+			"content_category"	: "Bab Tayammum",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Cara Melakukan Tayammum",
+			"content_url"		: "18t.html",
+			"content_category"	: "Bab Tayammum",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Hikmah Tayammum",
+			"content_url"		: "19t.html",
+			"content_category"	: "Bab Tayammum",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Hal-hal yang Dapat Membatalkan Tayammum",
+			"content_url"		: "20t.html",
+			"content_category"	: "Bab Tayammum",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Membasuh Muzah",
+			"content_url"		: "21t.html",
+			"content_category"	: "Bab Tayammum",
+			"content_cat_img"	: "images/category2.png"
+		},
+		{
+			"content_title"		: "Pendahuluan",
+			"content_url"		: "22t.html",
+			"content_category"	: "Bab Adzan dan Iqamah",
+			"content_cat_img"	: "images/category3.png"
+		},
+		{
+			"content_title"		: "Bacaan Adzan",
+			"content_url"		: "23t.html",
+			"content_category"	: "Bab Adzan dan Iqamah",
+			"content_cat_img"	: "images/category3.png"
+		},
+		{
+			"content_title"		: "Bacaan Iqamah",
+			"content_url"		: "24t.html",
+			"content_category"	: "Bab Adzan dan Iqamah",
+			"content_cat_img"	: "images/category3.png"
+		},
+		{
+			"content_title"		: "Doa Sesudah Adzan",
+			"content_url"		: "25t.html",
+			"content_category"	: "Bab Adzan dan Iqamah",
+			"content_cat_img"	: "images/category3.png"
+		},
+		{
+			"content_title"		: "Sunnah Menjawab Adzan dan Iqamah",
+			"content_url"		: "26t.html",
+			"content_category"	: "Bab Adzan dan Iqamah",
+			"content_cat_img"	: "images/category3.png"
+		},
+		{
+			"content_title"		: "Syarat Dan Hukum Shalat Wajib",
+			"content_url"		: "27t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Waktu Shalat Fardhu",
+			"content_url"		: "28t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Waktu yang Dilarang Untuk Shalat",
+			"content_url"		: "29t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Subuh",
+			"content_url"		: "30t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Dzuhur",
+			"content_url"		: "31t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.4g"
+		},
+		{
+			"content_title"		: "halat Ashar",
+			"content_url"		: "32t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Maghrib",
+			"content_url"		: "33t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category.4png"
+		},
+		{
+			"content_title"		: "Shalat Isya",
+			"content_url"		: "34t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Jumat",
+			"content_url"		: "35t.html",
+			"content_category"	: "Bab Shalat Wajib",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Tahajud",
+			"content_url"		: "36t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Taubah",
+			"content_url"		: "37t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Istisqa",
+			"content_url"		: "38t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Hajat",
+			"content_url"		: "39t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Dhuha",
+			"content_url"		: "40t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Idul Fitri",
+			"content_url"		: "41t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Idul Adha",
+			"content_url"		: "42t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Tahiyatul Masjid",
+			"content_url"		: "43t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Tarawih",
+			"content_url"		: "44t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Wiitir",
+			"content_url"		: "45t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Jenazah",
+			"content_url"		: "46t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Ghaib",
+			"content_url"		: "47t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Rawatib",
+			"content_url"		: "48t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Istikharah",
+			"content_url"		: "49t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Gerhana",
+			"content_url"		: "50t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Tasbih",
+			"content_url"		: "51t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Mutlak",
+			"content_url"		: "52t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Sunnah Syukrul Wudhu",
+			"content_url"		: "53t.html",
+			"content_category"	: "Bab Shalat Sunnah",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Keringanan Shalat Bagi Musafir",
+			"content_url"		: "54t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Dalil Shalat Secara Sempurna atau Qashar",
+			"content_url"		: "55t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Pengertian Shalat Qashar",
+			"content_url"		: "56t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Syarat Sah Shalat Qashar",
+			"content_url"		: "57t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Qashar Dzuhur",
+			"content_url"		: "58t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Qashar AShar",
+			"content_url"		: "59t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Qashar Isya",
+			"content_url"		: "60t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Pengertian Shalat Jamak",
+			"content_url"		: "62t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Jamak Shalat",
+			"content_url"		: "61t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Dalil Shalat Jamak",
+			"content_url"		: "63t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Syarat-syarat Shalat Jamak",
+			"content_url"		: "64t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Niat Shalat Jamak",
+			"content_url"		: "65t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Batas Di Bolehkannya Mengambil Keringanan Shalat",
+			"content_url"		: "66t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Pengertian Shalat Jamak Qashar",
+			"content_url"		: "67t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Jamak Qashar Taqdim",
+			"content_url"		: "68t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Cara Melakukan Jamak Qashar Taqdim",
+			"content_url"		: "69t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Jamak Qashar Takhir",
+			"content_url"		: "70t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Cara Melakukan Jamak Qashar Takhir",
+			"content_url"		: "71t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Qodho Shalat Yang Tertinggal",
+			"content_url"		: "72t.html",
+			"content_category"	: "Bab Shalat Untuk Musafir",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Shalat Bagi Orang Sakit",
+			"content_url"		: "73t.html",
+			"content_category"	: "Bab Shalat Bagi Yang Sakit",
+			"content_cat_img"	: "images/category4.png"
+		},
+		{
+			"content_title"		: "Doa dan Dzikir Sesudah Shalat Fardhu",
+			"content_url"		: "74t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Doa dan Dzikir Sesudah Shalat Sunnah",
+			"content_url"		: "75t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Dzikir Dzikir Pilihan",
+			"content_url"		: "76t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Dzikir Pagi",
+			"content_url"		: "77t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Dzikir Petang",
+			"content_url"		: "78t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Dzikir Pagi dan Petang",
+			"content_url"		: "79t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Dzikir Sebelum Tidur",
+			"content_url"		: "80t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Doa-doa Setelah Shalat Fardhu",
+			"content_url"		: "81t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		},
+		{
+			"content_title"		: "Doa-doa Setelah Shalat Sunnah",
+			"content_url"		: "82t.html",
+			"content_category"	: "Bab Doa Dan Dzikir",
+			"content_cat_img"	: "images/category1.png"
+		}
+	]
+}
